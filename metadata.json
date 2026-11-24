@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Link — Lưu trữ đường dẫn làm việc",
+  "description": "Ứng dụng quản lý và lưu trữ các đường dẫn làm việc cá nhân theo từng tài khoản riêng biệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
